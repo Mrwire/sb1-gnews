@@ -118,7 +118,7 @@ function App() {
             </p>
             <div className="flex flex-wrap justify-center gap-4 mb-16">
               <a 
-                href="https://raydium.io/swap" 
+                href="https://pump.fun/coin/BhnNrBpzynt5Ns2UmfacDVsdAM2tEoobFgEytuLApump" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="group bg-purple-600 text-white px-8 py-4 rounded-xl font-semibold hover:bg-purple-700 transition-all duration-300 flex items-center space-x-2 hover:transform hover:scale-105"
